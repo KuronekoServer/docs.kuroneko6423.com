@@ -2,6 +2,7 @@
 title: KuronekoServerとは
 icon: milestone 
 order: 99
+date: 2023-07-29
 ---
 ![](/static/banner.webp)
 
