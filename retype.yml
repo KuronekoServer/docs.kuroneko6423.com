@@ -1,0 +1,43 @@
+input: .
+
+output: .retype
+
+locale: ja
+
+serve:
+  host: 0.0.0.0
+
+outbound:
+  exclude:
+    - docs.kuroneko6423.com
+    - kuroneko6423.com
+    - tts.kuroneko6423.com
+    - artifacter.kuroneko6423.com
+    - localhost
+
+branding:
+  title: KuronekoServer
+  logo: static/logo.webp
+  logoDark: static/logo-dark.webp
+  label: v1.0.0
+url: docs.kuroneko6423.com
+
+favicon: static/favicon.webp
+
+edit:
+  repo: github.com/kuronekoserver/docs.kuroneko6423.com
+
+links:
+- text: サポートサーバー
+  link: https://discord.com/invite/Y6w5Jv3EAR
+  icon: comment-discussion
+  target: blank
+- text: Twitter
+  link: https://twitter.com/kuroneko_server
+  target: blank
+- text: GitHub
+  link: https://github.com/kuronekoserver
+  target: blank
+
+footer:
+  copyright: "&copy; Copyright {{ year }} – [KuronekoServer](https://kuroneko6423.com/) – All rights reserved"
