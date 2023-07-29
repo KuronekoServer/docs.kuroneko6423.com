@@ -1,6 +1,7 @@
 ---
 title: DiscordBOTの導入方法
 icon: tools
+tags: [beginner, method]
 order: 100
 ---
 

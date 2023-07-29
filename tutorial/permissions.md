@@ -1,6 +1,7 @@
 ---
 title: DiscordBOTに必要な権限
 icon: tools
+tags: [beginner, method]
 order: 99
 ---
 
