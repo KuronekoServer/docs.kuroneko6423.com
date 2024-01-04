@@ -52,14 +52,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/KuronekoServer/docs.kuroneko6423.com/tree/docusaurus',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/KuronekoServer/docs.kuroneko6423.com/tree/docusaurus',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -72,11 +72,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo-banner.png',
       navbar: {
-        title: 'My Site',
+        title: 'KuronekoServer Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'KuronekoServer Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -92,7 +92,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/KuronekoServer/docs.kuroneko6423.com',
             label: 'GitHub',
             position: 'right',
           },
@@ -114,16 +114,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/kuroneko_server',
               },
             ],
           },
@@ -131,17 +127,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'HomePage',
+                href: 'https://kuroneko6423.com',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/KuronekoServer',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KuronekoServer`,
       },
       prism: {
         theme: prismThemes.github,
