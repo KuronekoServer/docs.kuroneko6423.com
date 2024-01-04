@@ -1,8 +1,0 @@
----
-title: user-settings
-icon: tools
----
-
-# user-settings
-## 概要
-ここに分けられているコマンド類はユーザー管理の権限を持つ人のみが設定できる項目です。
