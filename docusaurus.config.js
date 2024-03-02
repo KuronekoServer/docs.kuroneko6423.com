@@ -95,7 +95,7 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Historty', position: 'left'},
           {
             href: 'https://github.com/KuronekoServer/docs.kuroneko6423.com',
             label: 'GitHub',
