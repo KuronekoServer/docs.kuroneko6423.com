@@ -1,5 +1,5 @@
 ---
-title: 新ドキュメント公開
+title: Ver1.0.0
 authors: [kuroneko, aoi]
 tags: [1.0.0]
 ---
