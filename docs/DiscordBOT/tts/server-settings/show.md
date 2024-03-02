@@ -1,5 +1,5 @@
 ---
-title: show
+title: /show
 icon: dot
 ---
 

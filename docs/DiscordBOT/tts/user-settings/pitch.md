@@ -2,7 +2,6 @@
 description: /setpitchは、設定した個人のみBOTが読み上げる時の声の音程の高さを変更する事ができます。
 sidebar_position: 11
 title: /setpitch
-icon: dot
 ---
 
 # /setpitch

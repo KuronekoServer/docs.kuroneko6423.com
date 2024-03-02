@@ -2,7 +2,6 @@
 description: /setvolumeは、設定した個人のみBOTが読み上げる時の声の音量の大きさを変更する事ができます。
 sidebar_position: 10
 title: /setvolume
-icon: dot
 ---
 
 # /setvolume
