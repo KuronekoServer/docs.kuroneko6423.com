@@ -1,47 +1,25 @@
 ---
+title: ようこそ
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+![](/img/banner.webp)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# ようこそ
+**KuronekoServer**の公式ドキュメントへようこそ！
 
-## Getting Started
+このドキュメントは、各サービスの各機能の説明を記入しております。
 
-Get started by **creating a new site**.
+使用していく上でわからないことができた場合は、まずはこれを見るようにしましょう！
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+:::tip My tip
+**KuronekoServerのサービスを使用する前に、必ず[利用規約](https://kuroneko6423.com/tos)と[プライバシーポリシー](https://kuroneko6423.com/privacy)のご確認をお願いします。**
 
-### What you'll need
+サービスを利用した場合、これらに同意したとみなされます。
+:::
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+:::danger warning
+このドキュメントはBOTの開発と並行して執筆しています。そのため、時期によっては各サービスの最新バージョンに対応していない場合があります。
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+ドキュメントに書かれていないことで質問がある場合は、お気軽に[サポートサーバー](https://discord.com/invite/Y6w5Jv3EAR)まで連絡をお願いします。
+:::

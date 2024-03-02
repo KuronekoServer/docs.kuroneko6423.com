@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'KuronekoServer Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'KuronekoServer Service Documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -52,14 +52,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KuronekoServer/docs.kuroneko6423.com/tree/docusaurus',
+            'https://github.com/KuronekoServer/docs.kuroneko6423.com/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KuronekoServer/docs.kuroneko6423.com/tree/docusaurus',
+            'https://github.com/KuronekoServer/docs.kuroneko6423.com/blog/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -67,12 +67,17 @@ const config = {
       }),
     ],
   ],
-
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/logo-banner.png',
+      image: 'img/logo-banner.webp',
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'KuronekoServer Docs',
         logo: {
@@ -82,9 +87,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docsSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {
             type: 'localeDropdown',
@@ -102,11 +107,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Pages',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Docs',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Historty',
+                to: '/blog',
               },
             ],
           },
@@ -115,7 +124,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/invite/Y6w5Jv3EAR',
               },
               {
                 label: 'Twitter',
@@ -137,6 +146,11 @@ const config = {
             ],
           },
         ],
+        logo: {
+          alt: 'KuronekoServer Logo',
+          src: '/img/banner.webp',
+          href: 'https://kuroneko6423.com',
+        },
         copyright: `Copyright © ${new Date().getFullYear()} KuronekoServer`,
       },
       prism: {

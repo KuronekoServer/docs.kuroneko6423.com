@@ -39,3 +39,34 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+# メモ
+:::note
+
+[Docusaurus](#) は、*React ベース*でつくられた**ドキュメントサイト**に特化した `SSG` です。
+
+:::
+
+:::tip
+
+[Docusaurus](#) は、*React ベース*でつくられた**ドキュメントサイト**に特化した `SSG` です。
+
+:::
+
+:::info
+
+[Docusaurus](#) は、*React ベース*でつくられた**ドキュメントサイト**に特化した `SSG` です。
+
+:::
+
+:::caution
+
+[Docusaurus](#) は、*React ベース*でつくられた**ドキュメントサイト**に特化した `SSG` です。
+
+:::
+
+:::danger
+
+[Docusaurus](#) は、*React ベース*でつくられた**ドキュメントサイト**に特化した `SSG` です。
+
+:::

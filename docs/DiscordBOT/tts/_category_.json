@@ -1,0 +1,8 @@
+{
+  "label": "読み上げBOT",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "KuronekoServer 読み上げBOT"
+  }
+}
