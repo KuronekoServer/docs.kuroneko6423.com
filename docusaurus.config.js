@@ -52,14 +52,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KuronekoServer/docs.kuroneko6423.com/',
+            'https://github.com/KuronekoServer/docs.kuroneko6423.com/tree/docusaurus/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KuronekoServer/docs.kuroneko6423.com/blog/',
+            'https://github.com/KuronekoServer/docs.kuroneko6423.com/tree/docusaurus/blog/',
         },
         theme: {
           customCss: './src/css/custom.css',
