@@ -1,5 +1,5 @@
 ---
-description: Deploy a full-featured blog in no time with Docusaurus.
+description: 話者を変更します。
 ---
 
 # setvoice
@@ -21,7 +21,7 @@ description: Deploy a full-featured blog in no time with Docusaurus.
 `/setvoice [話者名]` と入力すると、反映されて以内部分まで検索され表示がされます。
 話者名を入力をする事で後半に実装されたキャラクターのボイスを設定する事ができます。
 
-## {話者名}を入力しないと表示されない話者
+## [話者名]を入力しないと表示されない話者
 猫使ビィ以降の話者
 ・中国うさぎ(ノーマル / おどろき / こわがり / へろへろ)
 ・栗田まろん(ノーマル)
