@@ -37,7 +37,7 @@ icon: tools
 
 - `/server-settings force-guild-speaker` サーバー標準の話者を強制するか設定します。
 
-`server-settings disable-speaker` 特定の話者を有効または無効化します
+- `server-settings disable-speaker` 特定の話者を有効または無効化します
 
 - `/server-settings disable-speaker add` 特定の話者を無効化します
 
