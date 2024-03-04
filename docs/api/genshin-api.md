@@ -16,10 +16,10 @@ https://genshin-api.kuroneko6423.com/api/genshindata/?uid=UID&scoretype=ATTACK�
 当てはめる値 | 概要 |
 -- | -- |
 UID | 原神のUID | 
-ATTACK | 
-HP | 
-CHARGE | 
-ELEMENT | 
+ATTACK | 攻撃力
+HP | 体力
+CHARGE | 元素チャージ
+ELEMENT | 元素熟知
 DEFENCE | 防御力のスコア
 
 リクエスト例
