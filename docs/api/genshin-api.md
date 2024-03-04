@@ -11,7 +11,7 @@ GETリクエストでAPIにアクセスし、原神のユーザーの原神の�
 
 API仕様
 ```
-https://genshin-api.kuroneko6423.com/api/genshindata/?uid=UID&scoretype=ATTACK、HP、CHARGE、ELEMENT、DEFENCEのどれか&charaName=キャラクター名
+https://genshin-api.kuroneko6423.com/api/genshindata/?uid=UID&scoretype=スコア&charaName=キャラクター名
 ```
 当てはめる値 | 概要 |
 -- | -- |
@@ -21,6 +21,7 @@ HP | 体力
 CHARGE | 元素チャージ
 ELEMENT | 元素熟知
 DEFENCE | 防御力のスコア
+CHARACTER | 日本語の原神のキャラクター名(例: 旅人)
 
 リクエスト例
 ```
@@ -35,9 +36,7 @@ https://genshin-api.kuroneko6423.com/api/genshindata/?uid=830322314&scoretype=AT
 
 
 :::danger warning
-10秒間に100回以上リクエストをすると429が返されます。
-
-APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.com/invite/Y6w5Jv3EAR)をお願いします。
-
-※APIの制限は提供しているAPIサービスと制限は共有されています。
+10秒間に100回以上リクエストをすると「429 Too many Requests」が返されます。
+<br></br>APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.com/invite/Y6w5Jv3EAR)をお願いします。
+<br></br>※APIの制限は提供しているAPIサービスと制限は共有されています。
 :::
