@@ -56,3 +56,4 @@ This command generates static content into the `build` directory and can be serv
 [Docusaurus](#) は、*React ベース*でつくられた**ドキュメントサイト**に特化した `SSG` です。
 
 :::
+![メモ](memo.png)

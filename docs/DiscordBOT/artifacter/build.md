@@ -1,5 +1,5 @@
 ---
-title: /build-hsr
+title: /build
 
 ---
 

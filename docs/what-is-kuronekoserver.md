@@ -9,10 +9,8 @@ sidebar_position: 2
 # KuronekoServerとは
 ### 概要
 KuronekoServerは、学生の集まりで運営している任意団体です。
-
-KuronekoServerは、2018年に黒猫ちゃん個人で運営が開始し2021/07/20にDiscordサーバーを開設しました。
-
-現在では、Discord読み上げBOTが10万サーバー以上に利用されています。
+<br></br>KuronekoServerは、2018年に黒猫ちゃん個人で運営が開始し2021/07/20にDiscordサーバーを開設しました。
+<br></br>現在では、Discord読み上げBOTが10万サーバー以上に利用されています。
 
 ### 目標
 - 無料/低コスト
