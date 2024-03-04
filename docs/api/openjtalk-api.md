@@ -16,7 +16,7 @@ OpenJTalkを利用した音声合成APIです。
 :::danger warning
 10秒間に100回以上リクエストをすると429が返されます。
 
-緩和したい場合は[お問い合わせ](https://discord.com/invite/Y6w5Jv3EAR)をお願いします。
+APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.com/invite/Y6w5Jv3EAR)をお願いします。
 
 ※APIの制限は提供しているAPIサービスと制限は共有されています。
 :::
