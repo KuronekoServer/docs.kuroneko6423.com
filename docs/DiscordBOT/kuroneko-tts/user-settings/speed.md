@@ -1,5 +1,5 @@
 ---
-description: `/user-settings speed`は、設定した個人のみBOTが読み上げる時の読み上げのの早さを変更する事ができます。
+description: /user-settings speedは、設定した個人のみBOTが読み上げる時の読み上げのの早さを変更する事ができます。
 sidebar_position: 9
 title: /setspeed
 icon: dot
