@@ -1,0 +1,110 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.DiscordBOT": {
+    "message": "DiscordBOT",
+    "description": "The label for category DiscordBOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.読み上げBOT": {
+    "message": "読み上げBOT",
+    "description": "The label for category 読み上げBOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.読み上げBOT.link.generated-index.description": {
+    "message": "KuronekoServer 読み上げBOT",
+    "description": "The generated-index page description for category 読み上げBOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.channel": {
+    "message": "channel",
+    "description": "The label for category channel in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.link": {
+    "message": "link",
+    "description": "The label for category link in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.server-settings": {
+    "message": "server-settings",
+    "description": "The label for category server-settings in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.autojoin": {
+    "message": "autojoin",
+    "description": "The label for category autojoin in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.disable-speaker": {
+    "message": "disable-speaker",
+    "description": "The label for category disable-speaker in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.exclude-exvoice": {
+    "message": "exclude-exvoice",
+    "description": "The label for category exclude-exvoice in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.exclude-user": {
+    "message": "exclude-user",
+    "description": "The label for category exclude-user in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.read-bot": {
+    "message": "read-bot",
+    "description": "The label for category read-bot in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.user-dictionary": {
+    "message": "user-dictionary",
+    "description": "The label for category user-dictionary in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.user-settings": {
+    "message": "user-settings",
+    "description": "The label for category user-settings in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Artifacter": {
+    "message": "Artifacter",
+    "description": "The label for category Artifacter in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.黒猫ちゃんBOT": {
+    "message": "黒猫ちゃんBOT",
+    "description": "The label for category 黒猫ちゃんBOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category./bot": {
+    "message": "/bot",
+    "description": "The label for category /bot in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category./jobpanel": {
+    "message": "/jobpanel",
+    "description": "The label for category /jobpanel in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.log": {
+    "message": "log",
+    "description": "The label for category log in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.minecraft": {
+    "message": "minecraft",
+    "description": "The label for category minecraft in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.miscellaneous": {
+    "message": "miscellaneous",
+    "description": "The label for category miscellaneous in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.poll": {
+    "message": "poll",
+    "description": "The label for category poll in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.server-manage": {
+    "message": "server-manage",
+    "description": "The label for category server-manage in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.ticket": {
+    "message": "ticket",
+    "description": "The label for category ticket in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.web認証BOT": {
+    "message": "web認証BOT",
+    "description": "The label for category web認証BOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.API Reference": {
+    "message": "API Reference",
+    "description": "The label for category API Reference in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.API Reference.link.generated-index.description": {
+    "message": "KuronekoServer API Documentation",
+    "description": "The generated-index page description for category API Reference in sidebar docsSidebar"
+  }
+}

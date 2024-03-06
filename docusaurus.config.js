@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://kuroneko6423.com',
+  url: 'https://docs.kuroneko6423.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -31,13 +31,16 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ja',
-    locales: ['en', 'ja'],
+    locales: ['en', 'ja', 'ko'],
     localeConfigs: {
+      ja: {
+        label: '日本語',
+      },
       en: {
         label: 'English',
       },
-      ja: {
-        label: '日本語',
+      ko: {
+        label: '한국어',
       },
     },
   },

@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "KuronekoServer Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "KuronekoServer Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Historty": {
+    "message": "Historty",
+    "description": "Navbar item with label Historty"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
