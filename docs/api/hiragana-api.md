@@ -1,6 +1,5 @@
 ---
 title: ひらがなAPI
-icon: dot
 ---
 
 # ひらがなAPI

@@ -1,6 +1,5 @@
 ---
 title: 原神API
-icon: dot
 ---
 
 # 原神API

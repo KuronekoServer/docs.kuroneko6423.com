@@ -1,0 +1,46 @@
+{
+  "link.title.Pages": {
+    "message": "Pages",
+    "description": "The title of the footer links column with title=Pages in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Docs": {
+    "message": "Docs",
+    "description": "The label of footer link with label=Docs linking to /docs/intro"
+  },
+  "link.item.label.Historty": {
+    "message": "Historty",
+    "description": "The label of footer link with label=Historty linking to /blog"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/Y6w5Jv3EAR"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/kuroneko_server"
+  },
+  "link.item.label.HomePage": {
+    "message": "HomePage",
+    "description": "The label of footer link with label=HomePage linking to https://kuroneko6423.com"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/KuronekoServer"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 KuronekoServer",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "KuronekoServer Logo",
+    "description": "The alt text of footer logo"
+  }
+}

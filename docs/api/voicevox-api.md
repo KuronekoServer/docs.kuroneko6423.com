@@ -1,6 +1,5 @@
 ---
 title: 音声合成API
-icon: dot
 ---
 
 # 音声合成API

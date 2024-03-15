@@ -1,6 +1,5 @@
 ---
 title: OpenJTalkAPI
-icon: dot
 ---
 
 # OpenJTalkAPI
