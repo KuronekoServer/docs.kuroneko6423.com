@@ -4,7 +4,7 @@ title: 原神API
 
 # 原神API
 ## 概要
-Enka.NetworkのAPI情報を整理したAPIものを返すAPIとなっております。
+Enka.NetworkのAPI情報を再形成したデータを返すAPIとなっております。
 
 GETリクエストでAPIにアクセスし、原神のユーザーの原神のキャラクター情報をjson形式で返すAPIとなっています。
 
