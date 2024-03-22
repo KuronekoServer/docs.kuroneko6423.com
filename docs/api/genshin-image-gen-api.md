@@ -32,7 +32,7 @@ https://genshin-image-gen-api.kuroneko6423.com/api/genshindata/?uid=830322314
 
 ## ビルドカード生成
 ```
-https://genshin-api.kuroneko6423.com/api/generation/?uid=UID&scoretype=スコア&charaName=キャラクター名
+https://genshin-image-gen-api.kuroneko6423.com/api/generation/?uid=UID&scoretype=スコア&charaName=キャラクター名
 ```
 当てはめる値 | 概要 |
 -- | -- |
@@ -46,7 +46,7 @@ CHARACTER | 日本語の原神のキャラクター名(例: 旅人)
 
 リクエスト例
 ```
-https://genshin-api.kuroneko6423.com/api/generation/?uid=830322314&scoretype=ATTACK&charaName=ディオナ
+https://genshin-image-gen-api.kuroneko6423.com/api/generation/?uid=830322314&scoretype=ATTACK&charaName=ディオナ
 ```
 結果例
 ![image](/img/genshin-api/image-gen-api.png)
