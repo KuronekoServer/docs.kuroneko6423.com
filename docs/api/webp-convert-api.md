@@ -57,7 +57,6 @@ curl -X POST -F "images=@/path/to/image1.jpg" -F "images=@/path/to/image2.jpg" h
 
 #### 注意事項
 
-- 画像ファイルはmultipart/form-data形式でアップロードする必要があります。
 - ファイルサイズに応じて、処理に時間がかかる場合があります。
 - ファイルの拡張子が画像形式に対応している必要があります。
 
